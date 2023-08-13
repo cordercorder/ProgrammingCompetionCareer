@@ -6,6 +6,7 @@
 
 `codefores/problemset/`还有`HDUOJ`、`POJ`和`洛谷/`这几个文件夹的以后可能还会更新吧，因为无聊的时候可能会去刷刷题，当然其它的也有可能更新，以后的事也说不准。
 
-### update 20210123
 
-开始转战[leetcode](https://leetcode-cn.com/)。以后有时间偶尔可能会在[leetcode](https://leetcode-cn.com/)上面刷刷题或者打打周赛。
+## News
+- 2021.01.23 开始转战[leetcode](https://leetcode-cn.com/)。以后有时间偶尔可能会在[leetcode](https://leetcode-cn.com/)上面刷刷题或者打打周赛。
+- 2023.08.13 虽然从最开始参加(ACM)ICPC/CCPC到现在已经过去了5年，当初参加现场赛的场景仍然记忆犹新，这5年世界发生的变化太大了......（好像有点扯远了，而且打出来的字也没有什么逻辑）。回到正题吧，以后除非特殊情况，应该不会再看这些题了，这次来算是一个告别。
